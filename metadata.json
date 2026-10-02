@@ -1,0 +1,6 @@
+{
+  "name": "Zelvra Jewelry Store",
+  "description": "Luxury 925 Sterling Silver e-commerce storefront featuring interactive cart, polish selector, search, and intuitive checkout simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
